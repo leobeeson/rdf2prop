@@ -32,5 +32,4 @@
 #### TODO:
 • Lines marked with: "TODO: reasoning engine"
 • rdfs:domain
-• rdfs:range <- TODO: reasoning engine
-
+• rdfs:range
